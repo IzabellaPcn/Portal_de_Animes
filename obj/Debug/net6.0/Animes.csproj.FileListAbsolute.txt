@@ -1,0 +1,15 @@
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.csproj.AssemblyReference.cache
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.AssemblyInfoInputs.cache
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.AssemblyInfo.cs
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.csproj.CoreCompileInputs.cache
+C:\Users\izabe\source\repos\Animes\bin\Debug\net6.0\Animes.exe
+C:\Users\izabe\source\repos\Animes\bin\Debug\net6.0\Animes.deps.json
+C:\Users\izabe\source\repos\Animes\bin\Debug\net6.0\Animes.runtimeconfig.json
+C:\Users\izabe\source\repos\Animes\bin\Debug\net6.0\Animes.dll
+C:\Users\izabe\source\repos\Animes\bin\Debug\net6.0\ref\Animes.dll
+C:\Users\izabe\source\repos\Animes\bin\Debug\net6.0\Animes.pdb
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.dll
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\ref\Animes.dll
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.pdb
+C:\Users\izabe\source\repos\Animes\obj\Debug\net6.0\Animes.genruntimeconfig.cache
